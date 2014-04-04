@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anurag/OpenSoft2014/Submission/Team10 (OpenSoft)/backendOpensoft.hpp
+findBestMatch.hpp
+/home/anurag/OpenSoft2014/Submission/Team10 (OpenSoft)/findBestMatch.hpp
+translateImage.hpp
+/home/anurag/OpenSoft2014/Submission/Team10 (OpenSoft)/translateImage.hpp
+bits/stdc++.h
+-
+
+/home/anurag/OpenSoft2014/Submission/Team10 (OpenSoft)/edgeFeatures.hpp
+opencv2/opencv.hpp
+/home/anurag/OpenSoft2014/Submission/Team10 (OpenSoft)/opencv2/opencv.hpp
+bits/stdc++.h
+-
+
+/home/anurag/OpenSoft2014/Submission/Team10 (OpenSoft)/findBestMatch.hpp
+edgeFeatures.hpp
+/home/anurag/OpenSoft2014/Submission/Team10 (OpenSoft)/edgeFeatures.hpp
+
+/home/anurag/OpenSoft2014/Submission/Team10 (OpenSoft)/opensoft.cpp
+backendOpensoft.hpp
+/home/anurag/OpenSoft2014/Submission/Team10 (OpenSoft)/backendOpensoft.hpp
+
+/home/anurag/OpenSoft2014/Submission/Team10 (OpenSoft)/translateImage.hpp
+opencv2/opencv.hpp
+/home/anurag/OpenSoft2014/Submission/Team10 (OpenSoft)/opencv2/opencv.hpp
+edgeFeatures.hpp
+/home/anurag/OpenSoft2014/Submission/Team10 (OpenSoft)/edgeFeatures.hpp
+bits/stdc++.h
+/home/anurag/OpenSoft2014/Submission/Team10 (OpenSoft)/bits/stdc++.h
+findBestMatch.hpp
+/home/anurag/OpenSoft2014/Submission/Team10 (OpenSoft)/findBestMatch.hpp
+
